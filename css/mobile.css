@@ -1,0 +1,74 @@
+body {
+    margin:0px;
+    padding:0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    padding:0px;
+    margin:0px;
+}
+
+li {
+    background-color:#191c21;
+    padding:10px;
+}
+
+li a {
+    color:white;
+    text-decoration:none;
+    font-weight:400;
+}
+
+#Tis {
+    margin:auto;
+    width:66%;
+    height: 150px;
+    padding: 50px;
+    background-color:#eaebed;
+    text-align: start;
+}
+
+#lente, #backpacking, #verder, #wildcamperen {
+    padding-top:20px;
+    padding-left:20px;
+    margin:20px;
+    height:300px;
+    width:80%;
+    font-size:12px;
+    background-color:#eaebed;
+
+}
+
+h3 {
+    color:#c11515;
+    padding-bottom:10px;
+}
+
+.button {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    background-color: #c11515;
+    color: white;
+    padding: 15px 22px;
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border:2px solid #c11515;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+}
+
+
+.header {
+    padding:0px;
+    text-align: center;
+    background: white;
+    color: #c11515;
+    font-size: 16px;
+}
